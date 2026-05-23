@@ -70,3 +70,5 @@ Best for long-term storage with stronger security.
 Bitcoin ownership comes down to key ownership:
 
 Not your keys, not your coins.
+
+Next, read [Lightning Wallets](./lightning-wallets.md) to compare popular options for faster everyday Bitcoin payments.

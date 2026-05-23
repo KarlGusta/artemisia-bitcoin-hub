@@ -6,6 +6,7 @@ const sidebars = {
     'blockchain',
     'mining',
     'wallets',
+    'lightning-wallets',
     'security',
     'economics',
   ],
