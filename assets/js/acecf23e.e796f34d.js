@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkartemisia_bitcoin_hub=self.webpackChunkartemisia_bitcoin_hub||[]).push([["3220"],{1912(i){i.exports=JSON.parse('{"blogBasePath":"/artemisia-bitcoin-hub/blog","blogTitle":"Blog","authorsListPath":"/artemisia-bitcoin-hub/blog/authors"}')}}]);

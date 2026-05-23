@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkartemisia_bitcoin_hub=self.webpackChunkartemisia_bitcoin_hub||[]).push([["3056"],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

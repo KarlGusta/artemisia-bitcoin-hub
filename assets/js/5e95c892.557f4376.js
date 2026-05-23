@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkartemisia_bitcoin_hub=self.webpackChunkartemisia_bitcoin_hub||[]).push([["1668"],{6569(e,r,s){s.r(r),s.d(r,{default:()=>h});var a=s(4848);s(6540);var i=s(4164),t=s(4308),u=s(8287),c=s(2831),n=s(1085);function h(e){return(0,a.jsx)(t.e3,{className:(0,i.A)(u.G.wrapper.docsPages),children:(0,a.jsx)(n.A,{children:(0,c.v)(e.route.routes)})})}}}]);
