@@ -12,6 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Artemisia Bitcoin Hub',
   tagline: 'Learn Bitcoin from first principles',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
